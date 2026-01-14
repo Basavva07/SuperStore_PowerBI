@@ -7,15 +7,15 @@ The dashboard provides insights into sales, revenue, profit, orders, customers, 
 
 2.🎯 Objectives
 
-Analyze overall sales, revenue, and profit
+-Analyze overall sales, revenue, and profit
 
-Understand customer and order trends
+-Understand customer and order trends
 
-Identify top-performing products, states, and cities
+-Identify top-performing products, states, and cities
 
-Compare sales by category and ship mode
+-Compare sales by category and ship mode
 
-Visualize yearly, monthly, and daily patterns
+-Visualize yearly, monthly, and daily patterns
 
 3.🧮 Key Metrics (KPIs)
 
@@ -30,6 +30,7 @@ Total Revenue: 2M
 Total Profit: 266K
 
 4.📈 Dashboard Insights
+
 🔹 Sales & Orders Analysis
 
 Orders are highest on weekdays, especially Tuesday and Friday
@@ -66,13 +67,13 @@ Cities like New York City and Los Angeles lead in customer count
 
 5.🛠 Tools & Technologies
 
-Power BI
+-Power BI
 
-Data Visualization
+-Data Visualization
 
-DAX (Data Analysis Expressions)
+-DAX (Data Analysis Expressions)
 
-Microsoft Bing Maps
+-Microsoft Bing Maps
 
 6.📂 Files Included
 
@@ -82,25 +83,28 @@ README.md – Project documentation
 
 7.🚀 How to Use
 
-Download the .pbix file
+-Download the .pbix file
 
-Open it using Power BI Desktop
+-Open it using Power BI Desktop
 
-Interact with slicers (Date, City) to explore insights
+-Interact with slicers (Date, City) to explore insights
 
 8.📌 Future Enhancements
 
-Forecasting sales using time series
+`Forecasting sales using time series
 
-Drill-through pages for product-level analysis
+`Drill-through pages for product-level analysis
 
-KPI alerts and advanced tooltips
+`KPI alerts and advanced tooltips
 
 9.👤 Author
 
 Basavva Chalavadi
-#📊 Data Analytics | Power BI | SQL | Python
-#🔗 GitHub: https://github.com/Basavva07
+
+📊 Data Analytics | Power BI | SQL | Python
+
+🔗 GitHub: https://github.com/Basavva07
 
 10.Screenshots
+
 https://github.com/Basavva07/SuperStore_PowerBI/blob/main/p1.png
