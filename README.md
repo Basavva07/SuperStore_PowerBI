@@ -103,3 +103,4 @@ Basavva Chalavadi
 #🔗 GitHub: https://github.com/Basavva07
 
 10.Screenshots
+https://github.com/Basavva07/SuperStore_PowerBI/blob/main/p1.png
